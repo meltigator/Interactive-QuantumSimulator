@@ -1,4 +1,4 @@
-# Quantum Simulator of Space-Time CurvatureInteractive-QuantumSimulator
+# Quantum Simulator of Space-Time Curvature
 
 A bridge between advanced research and scientific dissemination
 
