@@ -28,6 +28,34 @@ Because as Wheeler and Rovelli teach:
 
 "Spacetime is not the backdrop of the universe - it is the quantized protagonist."
 
+Maximum Outreach Impact. Designed for Everyone, not just researchers or scientists:
+
+"Look! The changing colors are the 'dance' of quantum particles in curved space!"
+
+For University Students:
+
+"Each colored point represents a quantum probability amplitude in the spacetime geometry deformed by gravity."
+
+For Researchers:
+
+"SQLite database with exportable quantum correlations for advanced statistical analysis."
+
+How to Use It. Suggested Demonstration:
+
+    Start simulation (shows real-time GPU calculations)
+    Classical curvature mode (Einstein)
+    Switch to quantum amplitude (colors = phase!)
+    Toggle quantum waves (guaranteed "wow" effect)
+    Entanglement mode (mysterious correlations)
+    Show statistics (% coherent states in real time)
+
+The simulator is now a perfect bridge between:
+
+    Serious scientific research (OpenCL + correct physics)
+    Spectacular visualization (OpenGL + effects)
+    Accessible education (6 modes + built-in guide)
+    Practical utility (SQLite + data export)
+
 Here is a video demonstration:
 
 https://www.youtube.com/watch?v=p01X0TzPwpU
