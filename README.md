@@ -42,19 +42,19 @@ For Researchers:
 
 How to Use It. Suggested Demonstration:
 
-    Start simulation (shows real-time GPU calculations)
-    Classical curvature mode (Einstein)
-    Switch to quantum amplitude (colors = phase!)
-    Toggle quantum waves (guaranteed "wow" effect)
-    Entanglement mode (mysterious correlations)
-    Show statistics (% coherent states in real time)
+    - Start simulation (shows real-time GPU calculations)
+    - Classical curvature mode (Einstein)
+    - Switch to quantum amplitude (colors = phase!)
+    - Toggle quantum waves (guaranteed "wow" effect)
+    - Entanglement mode (mysterious correlations)
+    - Show statistics (% coherent states in real time)
 
 The simulator is now a perfect bridge between:
 
-    Serious scientific research (OpenCL + correct physics)
-    Spectacular visualization (OpenGL + effects)
-    Accessible education (6 modes + built-in guide)
-    Practical utility (SQLite + data export)
+    - Serious scientific research (OpenCL + correct physics)
+    - Spectacular visualization (OpenGL + effects)
+    - Accessible education (6 modes + built-in guide)
+    - Practical utility (SQLite + data export)
 
 Here is a video demonstration:
 
