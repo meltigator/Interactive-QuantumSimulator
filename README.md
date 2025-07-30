@@ -28,4 +28,8 @@ Because as Wheeler and Rovelli teach:
 
 "Spacetime is not the backdrop of the universe - it is the quantized protagonist."
 
+Here is a video demonstration:
+
+https://www.youtube.com/watch?v=p01X0TzPwpU
+
 Cooming Soon !!
