@@ -6,11 +6,11 @@ Let’s explore the intimate fabric of reality where space, time, and quantum in
 
 This simulator translates the dialogue between General Relativity and Quantum Mechanics into visible geometries:
 
-    Vacuum fluctuations become pulsating waves
+    - Vacuum fluctuations become pulsating waves
 
-    Probability amplitudes are dressed in color
+    - Probability amplitudes are dressed in color
 
-    Entanglement weaves violet connections through curved space
+    - Entanglement weaves violet connections through curved space
 
 It is not just parallel computing on GPUs, but a window into how matter dances with the geometry of spacetime.
 
