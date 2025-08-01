@@ -14,7 +14,7 @@ This simulator translates the dialogue between General Relativity and Quantum Me
 
 It is not just parallel computing on GPUs, but a window into how matter dances with the geometry of spacetime.
 
-Each particle is a cosmic bit that carries with it:
+## Each particle is a cosmic bit that carries with it:
 
 |Ψ〉 = α|0〉 + β|1〉 (quantum state)
 
@@ -24,7 +24,7 @@ What was pure mathematical abstraction a century ago now becomes a sensory exper
 
 We are mapping the frontier where being becomes becoming - where quantum possibilities crystallize into physical reality through the filter of gravitational curvature.
 
-Because as Wheeler and Rovelli teach:
+## Because as Wheeler and Rovelli teach:
 
 "Spacetime is not the backdrop of the universe - it is the quantized protagonist."
 
@@ -32,15 +32,15 @@ Maximum Outreach Impact. Designed for Everyone, not just researchers or scientis
 
 "Look! The changing colors are the 'dance' of quantum particles in curved space!"
 
-For University Students:
+## For University Students:
 
 "Each colored point represents a quantum probability amplitude in the spacetime geometry deformed by gravity."
 
-For Researchers:
+## For Researchers:
 
 "SQLite database with exportable quantum correlations for advanced statistical analysis."
 
-How to Use It. Suggested Demonstration:
+## How to Use It. Suggested Demonstration:
 
     - Start simulation (shows real-time GPU calculations)
     - Classical curvature mode (Einstein)
@@ -49,7 +49,7 @@ How to Use It. Suggested Demonstration:
     - Entanglement mode (mysterious correlations)
     - Show statistics (% coherent states in real time)
 
-The simulator is now a perfect bridge between:
+## The simulator is now a perfect bridge between:
 
     - Serious scientific research (OpenCL + correct physics)
     - Spectacular visualization (OpenGL + effects)
