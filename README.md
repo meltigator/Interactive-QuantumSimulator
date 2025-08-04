@@ -1,10 +1,10 @@
-# Quantum Simulator of Space-Time Curvature
+# ___Quantum Simulator of Space-Time Curvature___
 
-A bridge between advanced research and scientific dissemination
+### A bridge between advanced research and scientific dissemination
 
 Let’s explore the intimate fabric of reality where space, time, and quantum information merge.
 
-This simulator translates the dialogue between General Relativity and Quantum Mechanics into visible geometries:
+## This simulator translates the dialogue between General Relativity and Quantum Mechanics into visible geometries:
 
     - Vacuum fluctuations become pulsating waves
 
@@ -56,7 +56,7 @@ Maximum Outreach Impact. Designed for Everyone, not just researchers or scientis
     - Accessible education (6 modes + built-in guide)
     - Practical utility (SQLite + data export)
 
-Here is a video demonstration:
+### Here is a video demonstration:
 
 https://www.youtube.com/watch?v=p01X0TzPwpU
 
